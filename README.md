@@ -75,24 +75,3 @@ The AWS Site-to-Site VPN Deployment Guide is an open-source project providing st
 3. **On-prem Router Security Group:**
    ![On-prem Router SG](https://i.imgur.com/8Pl6LMz.png)
 
-## Installation
-
-1. Clone the repository.
-2. Install any necessary dependencies.
-
-## Usage
-
-1. Follow the steps outlined in the project walk-through.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## Troubleshooting
-
-If you encounter any issues, refer to the [Troubleshooting Guide](TROUBLESHOOTING.md) for common solutions.
-

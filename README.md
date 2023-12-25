@@ -82,8 +82,7 @@ The AWS Site-to-Site VPN Deployment Guide is an open-source project providing st
 
 ## Usage
 
-1. Execute the Python script.
-2. Follow the steps outlined in the project walk-through.
+1. Follow the steps outlined in the project walk-through.
 
 ## License
 

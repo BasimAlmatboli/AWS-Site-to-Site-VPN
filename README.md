@@ -96,11 +96,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 If you encounter any issues, refer to the [Troubleshooting Guide](TROUBLESHOOTING.md) for common solutions.
 
-## Acknowledgments
-
-- Thank you to [Cantrill.io](https://learn.cantrill.io/) for valuable resources.
-
-## Contact Information
-
-For questions or support, please contact [Basim](Basim.almatboli@gmail.com).
-
